@@ -3,4 +3,4 @@
 
 > Muhamad Taopik (1197050081)
 
-Untuk mengeksplorasi mata kuliah **Pembelajaran Mesin**.
+Untuk `mengeksplorasi` mata kuliah **Pembelajaran Mesin**.
