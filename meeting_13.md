@@ -2,8 +2,8 @@
 
 ### Requirement:
 
-- [ ] git
-- [ ] docker
+- [ ] `git`
+- [ ] `docker`
 
 ### Execute
 
